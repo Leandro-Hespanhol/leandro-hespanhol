@@ -18,10 +18,14 @@ Take a look around and i hope that you find what you seek 🧐
 
 ##
 
-Find me on:
 
+You can contact me on:
 <div>
-  <a href="https://www.linkedin.com/in/leandro-jos%C3%A9-ferreira-hespanhol-91b3a2136/" target="blank"><img align="center" alt="LeoH-JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="blank" /> </a>
+  <a href="https://www.linkedin.com/in/leandro-jos%C3%A9-ferreira-hespanhol-91b3a2136/" target="_blank">
+    <img alt="LeoH-Linkedin" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank" /> 
+  </a>
 <br>
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" SelfCopy("leandrohespanhol@gmail.com")>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  leandrohespanhol@gmail.com
+ 
 </div>
