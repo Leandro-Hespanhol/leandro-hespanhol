@@ -27,7 +27,7 @@ Take a look around and i hope that you find what you seek 🧐
 
 You can contact me on:
 <div>
-  <a href="https://www.linkedin.com/in/leandro-jos%C3%A9-ferreira-hespanhol-91b3a2136/" target="_blank">
+  <a href="https://www.linkedin.com/in/leandro-hespanhol/" target="_blank">
     <img alt="LeoH-Linkedin" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank" /> 
   </a>
 <br>
