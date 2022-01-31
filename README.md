@@ -20,6 +20,7 @@ Take a look around and i hope that you find what you seek 🧐
 
 <br><br>
   And always ready to step out of my confort zone and learn a different language!
+<br><br>
   Come and check it out my <a href="https://leandro-hespanhol.github.io/" target="_blank">Portfolio</a>
   </div>
 
