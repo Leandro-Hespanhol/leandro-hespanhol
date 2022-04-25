@@ -1,6 +1,6 @@
 ### Wellcome! 
 
-Take a look around and i hope that you find what you seek 🧐 
+Take a look around and I hope that you find what you seek 🧐 
 
 <div>
   
