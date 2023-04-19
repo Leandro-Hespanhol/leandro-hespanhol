@@ -13,7 +13,7 @@ Take a look around and I hope that you find what you seek 🧐
 <div style="display: inline-block">Ready to work with:<br><br>
 <img align="center" alt="LeoH-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="center" alt="LeoH-Node" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="center" alt="LeoH-Node" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" />
+<img align="center" alt="LeoH-Mocha" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" />
 <img align="center" alt="LeoH-HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="center" alt="LeoH-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/>
 <img align="center" alt="LeoH-JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -24,7 +24,7 @@ Take a look around and I hope that you find what you seek 🧐
 <img align="center" alt="LeoH-Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
 <img align="center" alt="LeoH-mySql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="center" alt="LeoH-Sequelize" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
-
+<img align="center" alt="LeoH-Golang" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
 
 <br><br>
   And always ready to step out of my confort zone and learn a different language!
